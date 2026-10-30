@@ -17,10 +17,7 @@ I got into coding when I realized that every system is built on code, from the C
 
 ## ⚡ Stack
 
-<p>
-  <img src="assets/stack-web.svg" height="46" alt="Web: React, TypeScript, Tailwind CSS, Vite, JavaScript, Git" /><br />
-  <img src="assets/stack-mainframe.svg" height="46" alt="Mainframe: COBOL, REXX, JCL, VSAM, TSO, USS, Ansible, Zowe" />
-</p>
+<img src="assets/stack.svg" height="96" alt="Web: React, TypeScript, Tailwind CSS, Vite, JavaScript, Git. Mainframe: COBOL, REXX, JCL, VSAM, TSO, USS, Ansible, Zowe" />
 
 ## 🚀 Featured
 
