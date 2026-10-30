@@ -13,11 +13,11 @@
 
 ## 👋 About
 
-I got into coding when I realized that every system is built on code, from the COBOL running behind banks to the websites we use every day. I build modern sites with React and TypeScript, and I'm drawn to mainframes because that's where most of the world's data flows. These days I spend my time going deep on both: shipping web projects and earning IBM Z certifications. I'm open to freelance work.
+I got into coding when I realized that every system is built on code, from the COBOL running behind banks to the websites we use every day. I build modern sites with React and TypeScript, and I'm drawn to mainframes because that's where most of the world's data flows. I've also deployed my own ERC-20 tokens on Polygon and Base, and I'm working toward building on Solana. These days I spend my time going deep on all three: shipping web projects, earning IBM Z certifications, and experimenting on-chain. I'm open to freelance work.
 
 ## ⚡ Stack
 
-<img src="assets/stack.svg" height="96" alt="Web: React, TypeScript, Tailwind CSS, Vite, JavaScript, Git. Mainframe: COBOL, REXX, JCL, VSAM, TSO, USS, Ansible, Zowe" />
+<img src="assets/stack.svg" height="146" alt="Web: React, TypeScript, Tailwind CSS, Vite, JavaScript, Git. Mainframe: COBOL, REXX, JCL, VSAM, TSO, USS, Ansible, Zowe. Web3: Solidity, ERC-20, EVM, Polygon, Base" />
 
 ## 🚀 Featured
 
@@ -36,6 +36,19 @@ I got into coding when I realized that every system is built on code, from the C
       <p>Official site for an esports team and streamer: live streams, team roster, weekly stream schedule, YouTube content, merch, and Discord.</p>
       <p><b>React · Vite · GitHub Pages · GoatCounter</b></p>
       <a href="https://0xmattyic333.github.io/wolfeepackk_temprgg/">Live site →</a> · <a href="https://github.com/0xmattyic333/wolfeepackk_temprgg">Code →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/web3-tokens.svg" alt="Two neon token coins labelled RAR and LIL" />
+      <h3>Web3 experiments: ERC-20 tokens</h3>
+      <p>Personal experiments deploying my own ERC-20 tokens to two EVM networks, RecklessAndRelentless (RAR) on Polygon and LonelyInLorain (LIL) on Base, to learn the contract deploy flow end to end.</p>
+      <p><b>Solidity · ERC-20 · Polygon · Base · EVM</b></p>
+      <a href="https://polygonscan.com/token/0x0259ddfBD48e65C22Ca365bc32AFF5B0a5fB9567">RAR on PolygonScan →</a> · <a href="https://basescan.org/token/0xF3007d8719741Cc361Dc7571120c01CE207fC772">LIL on BaseScan →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔜 Next up</h3>
+      <p>Building on <b>Solana</b>, and more client sites. Watch this space.</p>
     </td>
   </tr>
 </table>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 699 96" width="699" height="96" role="img" aria-label="Web: React, TypeScript, Tailwind CSS, Vite, JavaScript, Git. Mainframe: COBOL, REXX, JCL, VSAM, TSO, USS, Ansible, Zowe">
-<g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 699 146" width="699" height="146" role="img" aria-label="Web: React, TypeScript, Tailwind CSS, Vite, JavaScript, Git. Mainframe: COBOL, REXX, JCL, VSAM, TSO, USS, Ansible, Zowe. Web3: Solidity, ERC-20, EVM, Polygon, Base">
+<g transform="translate(0 0)">
   <text x="0" y="28" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="2" fill="#94a3b8">WEB</text>
   <rect x="130" y="8" width="67" height="30" rx="15" fill="#0f1a3a" stroke="#60a5fa" stroke-opacity="0.45"/>
   <text x="163.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#60a5fa">React</text>
@@ -32,5 +32,18 @@
   <text x="550.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">Ansible</text>
   <rect x="600" y="8" width="58" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
   <text x="629.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">Zowe</text>
+</g>
+<g transform="translate(0 100)">
+  <text x="0" y="28" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="2" fill="#94a3b8">WEB3</text>
+  <rect x="130" y="8" width="92" height="30" rx="15" fill="#062a33" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="176.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#22d3ee">Solidity</text>
+  <rect x="230" y="8" width="75" height="30" rx="15" fill="#062a33" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="267.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#22d3ee">ERC-20</text>
+  <rect x="313" y="8" width="49" height="30" rx="15" fill="#062a33" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="337.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#22d3ee">EVM</text>
+  <rect x="370" y="8" width="84" height="30" rx="15" fill="#062a33" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="412.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#22d3ee">Polygon</text>
+  <rect x="462" y="8" width="58" height="30" rx="15" fill="#062a33" stroke="#22d3ee" stroke-opacity="0.45"/>
+  <text x="491.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#22d3ee">Base</text>
 </g>
 </svg>
