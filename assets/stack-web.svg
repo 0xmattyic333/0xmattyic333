@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 699 46" width="699" height="46" role="img" aria-label="Web: React, TypeScript, Tailwind CSS, Vite, JavaScript, Git">
+  <text x="0" y="28" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="2" fill="#94a3b8">WEB</text>
+  <rect x="130" y="8" width="67" height="30" rx="15" fill="#0f1a3a" stroke="#60a5fa" stroke-opacity="0.45"/>
+  <text x="163.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#60a5fa">React</text>
+  <rect x="205" y="8" width="110" height="30" rx="15" fill="#0f1a3a" stroke="#60a5fa" stroke-opacity="0.45"/>
+  <text x="260.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#60a5fa">TypeScript</text>
+  <rect x="323" y="8" width="127" height="30" rx="15" fill="#0f1a3a" stroke="#60a5fa" stroke-opacity="0.45"/>
+  <text x="386.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#60a5fa">Tailwind CSS</text>
+  <rect x="458" y="8" width="58" height="30" rx="15" fill="#0f1a3a" stroke="#60a5fa" stroke-opacity="0.45"/>
+  <text x="487.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#60a5fa">Vite</text>
+  <rect x="524" y="8" width="110" height="30" rx="15" fill="#0f1a3a" stroke="#60a5fa" stroke-opacity="0.45"/>
+  <text x="579.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#60a5fa">JavaScript</text>
+  <rect x="642" y="8" width="49" height="30" rx="15" fill="#0f1a3a" stroke="#60a5fa" stroke-opacity="0.45"/>
+  <text x="666.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#60a5fa">Git</text>
+</svg>

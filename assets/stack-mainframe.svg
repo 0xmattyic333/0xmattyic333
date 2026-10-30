@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 666 46" width="666" height="46" role="img" aria-label="Mainframe: COBOL, REXX, JCL, VSAM, TSO, USS, Ansible, Zowe">
+  <text x="0" y="28" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="2" fill="#94a3b8">MAINFRAME</text>
+  <rect x="130" y="8" width="67" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="163.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">COBOL</text>
+  <rect x="205" y="8" width="58" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="234.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">REXX</text>
+  <rect x="271" y="8" width="49" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="295.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">JCL</text>
+  <rect x="328" y="8" width="58" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="357.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">VSAM</text>
+  <rect x="394" y="8" width="49" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="418.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">TSO</text>
+  <rect x="451" y="8" width="49" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="475.5" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">USS</text>
+  <rect x="508" y="8" width="84" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="550.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">Ansible</text>
+  <rect x="600" y="8" width="58" height="30" rx="15" fill="#1a1440" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <text x="629.0" y="28" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a78bfa">Zowe</text>
+</svg>

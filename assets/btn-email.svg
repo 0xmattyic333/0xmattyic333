@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 60" width="108" height="60" role="img" aria-label="EMAIL">
+  <defs><filter id="g" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+  <rect x="8" y="10" width="92" height="40" rx="9" fill="#a78bfa" opacity="0.55" filter="url(#g)">
+    <animate attributeName="opacity" values="0.35;0.7;0.35" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="8.5" y="10.5" width="91" height="39" rx="9" fill="#0a0b1e" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="54.0" y="36" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="1.5" fill="#ffffff">EMAIL</text>
+</svg>
